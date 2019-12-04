@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Inna;Sukhovii;;;
+FN: Inna Sukhovii 
+ORG:Ministry of Social Policy of Ukraine;
+TITLE:State Expert on Social Human Rights of the Directorate for Strategic Planning\,Policy Coordination and European Integration
+EMAIL;type=INTERNET;type=WORK;type=pref:i.yu.sukhovii@mlsp.gov.ua
+TEL;type=WORK;type=VOICE:+38 066 038 07 77
+item1.ADR;type=WORK;type=pref:;;8/10 Esplanadna Street\,;;;01601;Kyiv
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:msp.gov.ua
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
